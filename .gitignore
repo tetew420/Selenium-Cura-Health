@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+#folder
+*eclipse-workspace/.metadata/
+
 # BlueJ files
 *.ctxt
 
